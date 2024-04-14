@@ -1,0 +1,7 @@
+
+{
+	"titleMatch.error": "Nie ma mowy o użyciu słowa \"%1\" w tytule.",
+	"contentMatch.error": "Nie ma mowy o użyciu słowa \"%1\" w treści wpisu.",
+	"tagMatch.error": "Nie ma mowy o użyciu słowa \"%1\" jako tag.",
+	"username.error": "Nie ma mowy o użyciu słowa \"%1\" jako nazwy użytkownika."
+}
