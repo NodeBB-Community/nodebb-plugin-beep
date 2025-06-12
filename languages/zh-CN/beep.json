@@ -1,0 +1,6 @@
+{
+	"titleMatch.error": "您不得在标题中使用 “%1” 一词。",
+	"contentMatch.error": "您不得在帖子中使用 “%1” 一词。",
+	"tagMatch.error": "您不得在标签中使用 “%1” 一词。",
+	"username.error": "您不得在用户名中使用 “%1” 一词。"
+}
